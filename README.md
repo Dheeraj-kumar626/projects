@@ -41,3 +41,7 @@ Build a simple API for local SQLite instance in Deno with Typescript [View Proje
 ### Automating Websites
 
 In this project, you will use tools to automate a website using Python, [View Project](https://github.com/sqwyer/projects/blob/main/python/AUTOMATE_A_WEBSITE.md) - Submitted by Satyajeet-code
+
+### Rock Paper Scissors game
+
+In this beginner-friendly project, you will build a simple rock paper scissors game using Python, [View Project](https://github.com/sqwyer/projects/blob/main/python/ROCK_PAPER_SCISSORS.md) - Submitted by Harowo
