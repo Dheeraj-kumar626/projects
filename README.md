@@ -34,6 +34,10 @@ Build a simple Bubble Shooter game using JavaScript, [View Project](https://gith
 
 Build a simple Stick Ball game using Javascript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/Stick_Ball.md) - Submitted by DheerajKumar
 
+### 2048 game
+
+Build a simple 2048 game using Javascript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/2048_Game.md) - Submitted by Dheeraj
+
 ## TypeScript projects
 
 ### Deno SQLite
