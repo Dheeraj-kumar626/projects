@@ -38,6 +38,11 @@ Build a simple Stick Ball game using Javascript, [View Project](https://github.c
 
 Build a simple 2048 game using Javascript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/2048_Game.md) - Submitted by Dheeraj
 
+### Maze game
+
+Build a simple Maze game using Javascript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/Maze_Game.md) - Submitted by Dheeraj
+
+
 ## TypeScript projects
 
 ### Deno SQLite
