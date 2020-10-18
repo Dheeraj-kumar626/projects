@@ -10,4 +10,6 @@
 (Your Answer)
 
 - [x] I have checked and confirm that this is not a duplicate.
-- [x] All (if any) links stated are valid and do not contain any form of IP logger, any forms of malware, or content that should not be viewed by people under the age of 18
+- [x] All (if any) links (or content) is appropriate for all viewers.
+- [x] I have read the contributing guidelines and followed all of them.
+- [x] I have updated the README file and created all other necessary files.

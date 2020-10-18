@@ -26,6 +26,18 @@ Build a simple password generator with JavaScript, [View Project](https://github
 
 Build a simple ping pong game using JavaScript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/PING_PONG_GAME.md) - Submitted by arpantaneja
 
+### Bubble Shooter game
+
+Build a simple Bubble Shooter game using JavaScript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/Bubble_Shooter.md) - Submitted by DheerajKumar
+
+### Stick Ball game
+
+Build a simple Stick Ball game using Javascript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/Stick_Ball.md) - Submitted by DheerajKumar
+
+### 2048 game
+
+Build a simple 2048 game using Javascript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/2048_Game.md) - Submitted by Dheeraj
+
 ## TypeScript projects
 
 ### Deno SQLite
@@ -37,3 +49,7 @@ Build a simple API for local SQLite instance in Deno with Typescript [View Proje
 ### Automating Websites
 
 In this project, you will use tools to automate a website using Python, [View Project](https://github.com/sqwyer/projects/blob/main/python/AUTOMATE_A_WEBSITE.md) - Submitted by Satyajeet-code
+
+### Rock Paper Scissors game
+
+In this beginner-friendly project, you will build a simple rock paper scissors game using Python, [View Project](https://github.com/sqwyer/projects/blob/main/python/ROCK_PAPER_SCISSORS.md) - Submitted by Harowo
